@@ -22,6 +22,7 @@ $ sudo apt-get install nfs-kernel-server -y
 
 ```console
 $ sudo systemctl status nfs-server
+$ sudo service nfs-server status
 ```
 
 3. Crear Carpeta a compartir.
